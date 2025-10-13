@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "@etherspot/free-bundler": "^1.0.1",
+    "@zerodev/sdk": "^5.5.3",
     "dotenv": "^17.2.3",
+    "tslib": "^2.6.2",
     "tsx": "^4.20.6"
   },
   "devDependencies": {
